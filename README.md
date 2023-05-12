@@ -6,3 +6,4 @@ in mobile : storage/emulated/0/downloads/exploit folder/workspace/Z0R-Hub/Preset
 for mobile, it depends if its supported or not
 
 💀
+byfron out, so deleting this until byfron is in alpha state
