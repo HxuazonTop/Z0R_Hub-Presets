@@ -6,3 +6,6 @@ in mobile : storage/emulated/0/downloads/exploit folder/workspace/Z0R-Hub/Preset
 for mobile, it depends if its supported or not
 
 nvm we have uwp, but zor hub aint working anymore so go cry 💀💀
+
+
+since rcd patched most boombox hubs, gg
